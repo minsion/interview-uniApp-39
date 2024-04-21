@@ -1,2 +1,2 @@
-# interview-uniApp-44
-（核心题）uniApp（44道题）
+# interview-uniApp-39
+（核心题）uniApp（39道题）
